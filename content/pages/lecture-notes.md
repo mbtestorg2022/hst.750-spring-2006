@@ -9,9 +9,54 @@ Though the majority of the class is devoted to seminar-style discussions, four f
 Formal Lectures
 ---------------
 
-| LECTURE TITLES | DESCRIPTIONS |
-| --- | --- |
-| Special Topic I: Dimensional Analysis | An introduction to dimensional analysis and the Buckingham Pi theorem. Examples range from Gulliver and the Lilliputians to the atomic explosions of 1945. |
-| Special Topic II: Resampling | An introduction to doing data analysis and statistics using resampling and Monte Carlo methods. |
-| Special Topic III: Spukhafte Fernwirkungen | An introduction to spooky actions at a distance and the bizarre statistics of the quantum world. |
-| Special Topic IV: Hodgkin-Huxley | Historical background to the work of Hodgkin and Huxley.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LECTURE TITLES
+{{< thclose >}}
+{{< thopen >}}
+DESCRIPTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Special Topic I: Dimensional Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+An introduction to dimensional analysis and the Buckingham Pi theorem. Examples range from Gulliver and the Lilliputians to the atomic explosions of 1945.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Special Topic II: Resampling
+{{< tdclose >}}
+{{< tdopen >}}
+An introduction to doing data analysis and statistics using resampling and Monte Carlo methods.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Special Topic III: Spukhafte Fernwirkungen
+{{< tdclose >}}
+{{< tdopen >}}
+An introduction to spooky actions at a distance and the bizarre statistics of the quantum world.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Special Topic IV: Hodgkin-Huxley
+{{< tdclose >}}
+{{< tdopen >}}
+Historical background to the work of Hodgkin and Huxley.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

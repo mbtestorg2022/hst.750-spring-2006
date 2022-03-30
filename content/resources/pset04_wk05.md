@@ -5,6 +5,7 @@ description: This resource contains systems of units, a simple cochlear model, s
   physical model of the ear and feeding gulliver.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/1a8aa08969bf7c00925d2dc61ac31905_pset04_wk05.pdf
 file_type: application/pdf
+parent_uid: a23be3f3-fc88-b750-ec0e-12875925cb81
 resourcetype: Document
 title: pset04_wk05.pdf
 uid: 1a8aa089-69bf-7c00-925d-2dc61ac31905

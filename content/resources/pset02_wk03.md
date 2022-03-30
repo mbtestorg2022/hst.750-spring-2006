@@ -5,6 +5,7 @@ description: This resource contains newton in a tapered tube, erroneous(?) formu
   modeling strategies, justification for approach and selling it.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/a7999ca450faa8a3f5a946a6f3a591f7_pset02_wk03.pdf
 file_type: application/pdf
+parent_uid: a23be3f3-fc88-b750-ec0e-12875925cb81
 resourcetype: Document
 title: pset02_wk03.pdf
 uid: a7999ca4-50fa-a8a3-f5a9-46a6f3a591f7
